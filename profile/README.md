@@ -23,3 +23,7 @@ We are building a seamless, automated global grid. We redefine Physical and Data
 
 Email us by: [hello@bravolabs.qzz.io](mailto:hello@bravolabs.qzz.io)
 For Open Source related: [opensource@bravolabs.qzz.io](mailto:opensource@bravolabs.qzz.io)
+
+## Logos
+
+Bravo Labs logo (BL and Bravo Labs) are using Noto Sans T Chinese Bold and Climate Crisis
