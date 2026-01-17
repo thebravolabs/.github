@@ -26,4 +26,4 @@ For Open Source related: [opensource@bravolabs.qzz.io](mailto:opensource@bravola
 
 ## Logos
 
-Bravo Labs logo (BL and Bravo Labs) are using Noto Sans T Chinese Bold and Climate Crisis
+Bravo Labs logo (BL and Bravo Labs) are using Noto Sans T Chinese Bold and Climate Crisis, special thanks to all fonts authors.
